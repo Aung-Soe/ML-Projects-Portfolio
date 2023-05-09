@@ -1,1 +1,1 @@
-This is the repository for machine learning projects.
+This is my portfolio of Machine Learning Projects.
